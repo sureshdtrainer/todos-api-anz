@@ -8,7 +8,7 @@
 		<version>3.3.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>om.todos</groupId>
+	<groupId>com.todos</groupId>
 	<artifactId>todos-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>todos-api</name>
@@ -27,7 +27,7 @@
 		<url/>
 	</scm>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
